@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Project 5">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/algs4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/stdlib.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
